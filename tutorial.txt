@@ -1,0 +1,32 @@
+1. Git in terminal
+
+- Create local git repo and write `git init` in the terminal
+
+- add files to the git by writing `git add .` or `git add <name of the file>
+
+- save changes by writing `git commit -m "<some message>"
+
+
+2. Github 
+
+- Create new repo on github.com by naming it `<name of the repo>.github.io`. Additionally you cannot add any capital letters.
+
+- Set the repo to the public 
+
+- create a repo
+
+- copy the https link to your new repo
+
+
+3. Git in terminal 
+
+- after you created a github repo write in ur terminal this comment to merge online Github 
+repo with your local git repo `git remote add origin <https link>
+
+- aftet you've done it write write to the terminal `git push -u origin main` to upload the file to your github repo
+
+
+4. Working site
+
+- After a while open your site how you named it in your browser, for example - `seysix.github.io`
+
